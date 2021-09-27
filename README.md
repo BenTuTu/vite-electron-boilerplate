@@ -44,21 +44,13 @@ To package apps for the special platform:
 ```
 
 ## Docs
-
-[docs and guides here](https://electron-react-boilerplate.js.org/docs/installation)
+TODO
+[docs and guides here]()
 
 ## Donations
 
 **Donations will ensure the following:**
 
-- 🔨 Long term maintenance of the project
-- 🛣 Progress on the [roadmap](https://electron-react-boilerplate.js.org/docs/roadmap)
-- 🐛 Quick responses to bug reports and help requests
-
 ## Maintainers
 
 - [Ben TuTu](https://github.com/amilajack)
-
-## License
-
-MIT © [Vite Electron Boilerplate](https://github.com/electron-react-boilerplate)
